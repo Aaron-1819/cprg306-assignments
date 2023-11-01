@@ -5,7 +5,7 @@ import StudentInfo from "./StudentInfo.js";
 
 export default function Home() {
   const weekDemos = [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13];
-  const doneUpTo = 5;
+  const doneUpTo = 6;
   return (
     <main className="bg-gradient-to-r from-green-200 via-green-300 to-blue-500">
     <div className=" min-h-screen">
